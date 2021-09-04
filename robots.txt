@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://PedroCotovio.github.io/sitemap.xml

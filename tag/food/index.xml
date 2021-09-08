@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food | Pedro Cotovio</title>
+    <link>https://PedroCotovio.github.io/tag/food/</link>
+      <atom:link href="https://PedroCotovio.github.io/tag/food/index.xml" rel="self" type="application/rss+xml" />
+    <description>Food</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pedro Cotovio</copyright><lastBuildDate>Tue, 01 Sep 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://PedroCotovio.github.io/media/icon_hub533aeb06ed78d17ee18192813bbc099_148455_512x512_fill_lanczos_center_3.png</url>
+      <title>Food</title>
+      <link>https://PedroCotovio.github.io/tag/food/</link>
+    </image>
+    
+    <item>
+      <title>CIRCLES</title>
+      <link>https://PedroCotovio.github.io/project/circles/</link>
+      <pubDate>Tue, 01 Sep 2020 13:00:00 +0000</pubDate>
+      <guid>https://PedroCotovio.github.io/project/circles/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Researcher&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding&lt;/strong&gt;: European Union (under Horizon 2020 research and innovation program)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pattern Mining | Pedro Cotovio</title>
+    <link>https://PedroCotovio.github.io/tag/pattern-mining/</link>
+      <atom:link href="https://PedroCotovio.github.io/tag/pattern-mining/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pattern Mining</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pedro Cotovio</copyright><lastBuildDate>Wed, 01 Apr 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://PedroCotovio.github.io/media/icon_hub533aeb06ed78d17ee18192813bbc099_148455_512x512_fill_lanczos_center_3.png</url>
+      <title>Pattern Mining</title>
+      <link>https://PedroCotovio.github.io/tag/pattern-mining/</link>
+    </image>
+    
+    <item>
+      <title>ModEst</title>
+      <link>https://PedroCotovio.github.io/project/modest/</link>
+      <pubDate>Wed, 01 Apr 2020 13:00:00 +0000</pubDate>
+      <guid>https://PedroCotovio.github.io/project/modest/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Researcher&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding&lt;/strong&gt;: FCT (under the Data Science and Artificial Intelligence in Public Administration program)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;This project&amp;rsquo;s objective was to advance precision medicine and supportive care in ALS by proposing advanced machine learning models using patient profiles and disease progression patterns for prognostic prediction in ALS.&lt;/p&gt;
+&lt;p&gt;My worked focused on the problem of analyzing n-way data using deep reinforcement learning approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

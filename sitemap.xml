@@ -2,10 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://PedroCotovio.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://PedroCotovio.github.io/project/aipals/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/amyotrophic-lateral-sclerosis/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/artificial-intelligence/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/deep-reinforcement-learning/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/disease-progression-patterns/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/health/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/n-clustering/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/patient-profiling/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://PedroCotovio.github.io/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/project/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tags/</loc>
+    <lastmod>2021-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/project/circles/</loc>
+    <lastmod>2020-09-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/food/</loc>
+    <lastmod>2020-09-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/clustering/</loc>
+    <lastmod>2020-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/flux-of-students/</loc>
+    <lastmod>2020-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/markov-models/</loc>
+    <lastmod>2020-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/project/modest/</loc>
+    <lastmod>2020-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/pattern-mining/</loc>
+    <lastmod>2020-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/tag/time-series/</loc>
+    <lastmod>2020-04-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://PedroCotovio.github.io/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://PedroCotovio.github.io/publication/preprint/</loc>
@@ -19,24 +73,6 @@
   </url><url>
     <loc>https://PedroCotovio.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://PedroCotovio.github.io/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://PedroCotovio.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://PedroCotovio.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://PedroCotovio.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://PedroCotovio.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://PedroCotovio.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://PedroCotovio.github.io/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disease Progression Patterns | Pedro Cotovio</title>
+    <link>https://PedroCotovio.github.io/tag/disease-progression-patterns/</link>
+      <atom:link href="https://PedroCotovio.github.io/tag/disease-progression-patterns/index.xml" rel="self" type="application/rss+xml" />
+    <description>Disease Progression Patterns</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pedro Cotovio</copyright><lastBuildDate>Thu, 01 Apr 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://PedroCotovio.github.io/media/icon_hub533aeb06ed78d17ee18192813bbc099_148455_512x512_fill_lanczos_center_3.png</url>
+      <title>Disease Progression Patterns</title>
+      <link>https://PedroCotovio.github.io/tag/disease-progression-patterns/</link>
+    </image>
+    
+    <item>
+      <title>AIPals</title>
+      <link>https://PedroCotovio.github.io/project/aipals/</link>
+      <pubDate>Thu, 01 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>https://PedroCotovio.github.io/project/aipals/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Researcher&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding&lt;/strong&gt;: FCT&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;This project&amp;rsquo;s objective was to produce non-stationary Markov models that characterize the flow of students in the Portuguese educational system to obtain predictions of the respective evolution.&lt;/p&gt;
+&lt;p&gt;In my contribution, I used Markov models, sequential pattern-mining and clustering to model, predict and profile the sequential datasets.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
